@@ -1,0 +1,101 @@
+,Restaurant_id,Name,Locality,Address,City,Latitude,Longitude,Zip Code,Cuisines,Price Range,Average Cost for two,User Rating,Rating Text,Votes,all_reviews_count
+0,16588873,Peel St,"Peel Street, City Centre","9 Peel Street, City Centre, Adelaide",Adelaide,-34.9233805556,138.5979472222,5000,"Asian, Middle Eastern, Modern Australian",4,110,4.9,Excellent,391,156
+1,16588993,Orana,"Rundle Street, City Centre","285 Rundle Street, Adelaide",Adelaide,-34.9226260000,138.6101280000,05000,Australian,4,350,4.9,Excellent,153,78
+2,16587626,Mandoo,"Bank Street, City Centre","3/26 Bank Street, Adelaide, SA",Adelaide,-34.9225175430,138.5974917188,5000,"Korean, Dumplings",2,45,4.8,Excellent,764,290
+3,16587409,Indian Temptations,"Main North Road, Enfield","490 Main North Road, Blair Athol",Adelaide,-34.8526305556,138.6004333333,5085,Indian,2,50,4.8,Excellent,403,156
+4,16587463,Parwana Afghan Restaurant,"Henley Beach Road, Torrensville","124b Henley Beach Road, Torrensville, Adelaide",Adelaide,-34.9237361111,138.5674583333,5031,"Middle Eastern, Afghan",3,80,4.7,Excellent,607,188
+5,16586909,Enzo's Ristorante,"Port Road, Hindmarsh","46 Port Road, Hindmarsh, Adelaide",Adelaide,-34.9080920000,138.5755770000,5007,Italian,4,100,4.7,Excellent,425,136
+6,16589254,127 Days,Croydon Park,"127 Days Road, Croydon Park, Adelaide",Adelaide,-34.8758456000,138.5663751000,5008,"American, Burger, Sandwich",2,50,4.7,Excellent,267,123
+7,16587476,Kefi Greek Cuisine,"Tapleys Hill Road, Glenelg North","3 61 Tapleys Hill Road, Glenelg North, Adelaide",Adelaide,-34.9703214255,138.5169587284,5045,Greek,3,80,4.7,Excellent,259,92
+8,16588256,Chapati House 2,"South Road, Glandore","Shop 6a, 715-727 South Road, Glandore",Adelaide,-34.9633722222,138.5727833333,5035,Indian,3,60,4.7,Excellent,139,52
+9,16587245,Wasai Japanese Kitchen,"Field Street, City Centre","15 Field Street, Adelaide",Adelaide,-34.9308757855,138.5961227864,5000,Japanese,3,70,4.6,Excellent,918,252
+10,16586858,Chianti,"Hutt Street, City Centre","160 Hutt Street, Adelaide",Adelaide,-34.9307777778,138.6123972222,5000,Italian,3,80,4.6,Excellent,812,228
+11,16589382,Bread & Bone Wood Grill,"Peel Street, City Centre","15 Peel Street, Adelaide",Adelaide,-34.9235027778,138.5981305556,5000,"American, Bar Food",3,75,4.6,Excellent,599,236
+12,16588445,Ruby Red Flamingo,"Tynte Street, North Adelaide","142 Tynte Street, North Adelaide, Adelaide",Adelaide,-34.9061083333,138.5948194444,5006,Italian,3,80,4.6,Excellent,576,216
+13,16586875,Concubine,"Gouger Street, City Centre","132 Gouger Street, Adelaide",Adelaide,-34.9302000000,138.5944833333,5000,Chinese,3,90,4.6,Excellent,421,112
+14,16608070,d'Arry's Verandah Restaurant,McLaren Vale,"Osborn Rd, McLaren Vale",Adelaide,-35.1983720000,138.5452420000,5171,"Modern Australian, Australian",1,25000017,4.6,Excellent,208,93
+15,16588187,Il Toro,"North East Road, Greenacres","Shop 1, 321 North East Road, Hampstead Gardens, Greenacres, Adelaide",Adelaide,-34.8716888889,138.6361833333,5086,Italian,2,55,4.6,Excellent,138,71
+16,16587135,Rena's Thai Kitchen,"Kensington Road, Erindale","370 Kensington Road, Erindale, Kensington, Adelaide",Adelaide,-34.9258097026,138.6629932746,5066,Thai,3,60,4.6,Excellent,131,50
+17,16587474,Eggless,"Goodwood Road, Goodwood","162 Goodwood Road, Goodwood, Adelaide",Adelaide,-34.9531027778,138.5896138889,5034,"Desserts, Coffee and Tea, Cafe Food",2,40,4.5,Excellent,632,184
+18,16589007,Gin Long Canteen,"O'connell Street, North Adelaide","42 O'Connell Street, North Adelaide",Adelaide,-34.9078321000,138.5968021000,5006,"Malaysian, Thai, Vietnamese",3,70,4.5,Excellent,613,207
+19,16586943,Georges on Waymouth,"Waymouth Street, City Centre","20 Waymouth Street, Adelaide",Adelaide,-34.9257861111,138.5992138889,5000,European,4,130,4.5,Excellent,354,131
+20,16587898,The Pantry On Egmont,"Egmont Terrace, Hawthorn","2, Egmont Terrace, Hawthorn, Adelaide",Adelaide,-34.9689916667,138.5997166667,5062,"Coffee and Tea, Cafe Food",2,40,4.5,Excellent,416,138
+21,16587253,Windy Point Restaurant,Belair,"Windy Point Lookout, Belair Road, Belair,  Adelaide",Adelaide,-34.9978520000,138.6246490000,5052,Modern Australian,4,160,4.5,Excellent,463,128
+22,16589171,Tony Tomatoes,"O'connell Street, North Adelaide","155-157 O'Connell Street, North Adelaide",Adelaide,-34.9040111111,138.5950916667,5006,"Italian, Pizza, Bar Food",3,80,4.5,Excellent,298,149
+23,16586988,Jasmin Indian,City Centre,"31 Hindmarsh Square, Adelaide",Adelaide,-34.9237361111,138.6050111111,5000,Indian,3,85,4.5,Excellent,470,136
+24,16587704,EST Pizzeria,"East Terrace, City Centre","30 East Terrace, Adelaide",Adelaide,-34.9231533887,138.6105175316,5000,"Italian, Pizza",2,50,4.5,Excellent,345,109
+25,16588224,Udaberri,"Leigh Street, City Centre","11 Leigh Street, Adelaide",Adelaide,-34.9235638889,138.5976111111,5000,"Spanish, Tapas",3,65,4.5,Excellent,184,57
+26,16588236,Lickerish,"Semaphore Road, Semaphore","26 Semaphore Road, Semaphore, Adelaide",Adelaide,-34.8386385000,138.4820065000,,"Pizza, Tapas, Spanish",3,80,4.5,Excellent,284,139
+27,16587217,Thea Vegetarian Tea Garden,"Gawler Place, City Centre","110 Gawler Place, Adelaide, City Centre, Adelaide",Adelaide,-34.9252120875,138.6021440104,5000,Asian,2,50,4.5,Excellent,160,43
+28,16587722,The Ghan Kebab House,"Prospect Road, Blair Athol","364 Prospect Road, Kilburn",Adelaide,-34.8658944444,138.5925138889,5084,"Middle Eastern, Afghan",2,50,4.5,Excellent,178,73
+29,16587914,Sazón Espresso,"Gawler Street, Mount Barker","1 24 Gawler Street, Mount Barker",Adelaide,-35.0673055556,138.8586277778,5251,"Mexican, Coffee and Tea, Cafe Food",3,80,4.5,Excellent,122,47
+30,16586759,Amalfi Pizzeria Ristorante,"Rundle Street, City Centre","29 Frome Street, Adelaide, City Centre, Adelaide",Adelaide,-34.9223314342,138.6079905555,5000,"Italian, Pizza",3,85,4.4,Very Good,966,265
+31,16588961,Golden Boy,"East Terrace, City Centre","309 North Terrace, Adelaide",Adelaide,-34.9211055556,138.6103833333,5000,"Asian, Thai",3,96,4.4,Very Good,457,195
+32,16587995,Press Food and Wine,"Waymouth Street, City Centre","40 Waymouth Street, Adelaide",Adelaide,-34.9259493470,138.5982229561,5000,Modern Australian,4,130,4.4,Very Good,702,249
+33,16588155,Lucky Lupitas,"O'connell Street, North Adelaide","Shop 1/163 O'Connell Street, North Adelaide, Adelaide",Adelaide,-34.9039084214,138.5950995237,5042,"Latin American, Mexican",3,60,4.4,Very Good,764,248
+34,16587567,Nghi Ngan Quan (NNQ),"Woodville Road, Woodville","65 Woodville Road, Woodville, Adelaide",Adelaide,-34.8782700000,138.5370570000,5011,Vietnamese,3,60,4.4,Very Good,741,258
+35,16587417,Yakitori Takumi,"Melbourne Street, North Adelaide","Shop 60, 55 Melbourne Street, North Adelaide",Adelaide,-34.9058944444,138.6096027778,5006,"BBQ, Japanese, Tapas",3,75,4.4,Very Good,336,103
+36,16589557,Africola,"East Terrace, City Centre","4 East Terrace, Adelaide",Adelaide,-34.9213621221,138.6107294261,5000,"African, BBQ",4,100,4.4,Very Good,324,151
+37,16587131,Red Ochre Grill,North Adelaide,"War Memorial Drive, North Adelaide, Adelaide",Adelaide,-34.9173610000,138.5874650000,5006,Modern Australian,4,130,4.4,Very Good,277,86
+38,16587200,Star of Siam,"Gouger Street, City Centre","67 Gouger Street, Adelaide",Adelaide,-34.9303333333,138.5967111111,5000,Thai,3,94,4.4,Very Good,383,117
+39,16588195,Pizza e Mozzarella Bar,"Pirie Street, City Centre","33b Pirie Street, Adelaide",Adelaide,-34.9255722222,138.6010138889,5000,"Italian, Pizza",3,80,4.4,Very Good,238,96
+40,16586916,Estia,"Seaview Road, Henley Beach","255 Seaview Road, Henley Beach, Adelaide",Adelaide,-34.9197277908,138.4942699224,5022,Greek,3,80,4.4,Very Good,315,127
+41,16588832,Sushi Bar Genki,"Gouger Street, City Centre","163 Gouger Street, Adelaide",Adelaide,-34.9305694444,138.5930777778,5000,"Japanese, Sushi",2,35,4.4,Very Good,188,76
+42,16588952,Jin's Bibimbar,"Goodwood Road, Westbourne Park","480 Goodwood Road, Cumberland Park",Adelaide,-34.9755814612,138.5916223750,5041,"Asian, Korean",2,40,4.4,Very Good,120,49
+43,16589096,Borsa Pasta Cucina,"Grenfell Street, City Centre","25 Grenfell Street, Adelaide, City Centre, Adelaide",Adelaide,-34.9245722222,138.6013194444,5000,Italian,3,90,4.4,Very Good,144,75
+44,16587524,Addis Ababa Cafe,"Port Road, West Hindmarsh","4/462 Port Road, West Hindmarsh, Adelaide",Adelaide,-34.8992540000,138.5623170000,5007,"African, Ethiopian",3,60,4.4,Very Good,211,71
+45,16588532,Thai By 3 Monkeys,"O'connell Street, North Adelaide","33 O'Connell Street, North Adelaide, Adelaide",Adelaide,-34.9081805556,138.5966805556,5006,Thai,3,60,4.4,Very Good,223,83
+46,16587027,Penfolds Magill Estate Restaurant,"Penfold Road, Rosslyn Park","78 Penfold Road, Rosslyn Park,  Adelaide",Adelaide,-34.9209750000,138.6788630000,5072,Modern Australian,4,350,4.4,Very Good,155,52
+47,16587416,Lawash Bakery Kabab Shop,"South Road, Torrensville","115 South Road, Torrensville, Adelaide",Adelaide,-34.9185470383,138.5684229434,5031,"Lebanese, Middle Eastern, Bakery",2,30,4.4,Very Good,182,67
+48,16587373,Cam Wah Chinese & Vietnamese Restaurant,Kilkenny,"33 Kilkenny Rd, Kilkenny Park, Kilkenny, Adelaide",Adelaide,-34.8865850000,138.5489810000,5011,"Chinese, Vietnamese",1,0,4.4,Very Good,97,29
+49,16587214,Taste of Nepal,"The Parade, Beulah Park","300 The Parade, Beulah Park, Adelaide",Adelaide,-34.9209590000,138.6444850000,05068,"Asian, Indian, Tibetan",4,110,4.4,Very Good,122,48
+50,16587676,Sushi Train,Welland,"Welland Plaza, Shop 25, 522 Port Road, Welland",Adelaide,-34.8964111111,138.5569305556,5007,"Sushi, Japanese",2,35,4.4,Very Good,155,31
+51,16587238,Vietnam Restaurant,"Addison Road, Pennington","73 Addison Road, Pennington, Adelaide",Adelaide,-34.8569588868,138.5290316865,5013,Vietnamese,3,70,4.3,Very Good,505,154
+52,16589483,Delicatessen Kitchen and Bar,"Waymouth Street, City Centre","12 Waymouth Street, Adelaide, City Centre, Adelaide",Adelaide,-34.9255870000,138.5991010000,5000,"European, Bar Food, Coffee and Tea, Cafe Food",3,65,4.3,Very Good,139,75
+53,16588439,Adelaide Pho,City Centre,"199 Waymouth Street, Adelaide",Adelaide,-34.9262283603,138.5921779275,5000,"Vietnamese, Asian",2,55,4.3,Very Good,352,135
+54,16586963,The Greek on Halifax,"Halifax Street, City Centre","75-79 Halifax Street, Adelaide",Adelaide,-34.9329300000,138.6032560000,5000,"Greek, Coffee and Tea, Cafe Food",3,80,4.3,Very Good,405,118
+55,16587584,Singapore House,"Glen Osmond Road, Fullarton","203 Glen Osmond Road, Frewville",Adelaide,-34.9481416667,138.6283555556,5063,"Asian, Indian, Singaporean",3,80,4.3,Very Good,402,134
+56,16587731,Melt CBD,"Waymouth Street, City Centre","38 Waymouth Street, Adelaide",Adelaide,-34.9259416667,138.5982972222,5000,"Pizza, Tapas",3,60,4.3,Very Good,390,124
+57,16587053,Melt Pizzeria,"King William Road, Goodwood","160 King William Road, Goodwood",Adelaide,-34.9547316478,138.6001293361,5061,"Pizza, Tapas",3,70,4.3,Very Good,452,104
+58,16586765,Apothecary 1878,"Hindley Street, City Centre","118 Hindley Street, Adelaide, City Centre, Adelaide",Adelaide,-34.9232250000,138.5952000000,5000,"European, Tapas",3,80,4.3,Very Good,247,85
+59,16587651,Thanh Thanh,"Field Street, City Centre","18 Field Street, Adelaide",Adelaide,-34.9308550000,138.5961760000,5000,"Asian, Vietnamese",3,65,4.3,Very Good,355,116
+60,16588160,Taverna Greek Psistaria,"Drayton Street, Bowden","290 Port Road, Hindmarsh, Adelaide",Adelaide,-34.9035400000,138.5686950000,5007,Greek,3,80,4.3,Very Good,226,104
+61,16587382,Sabai Cafe,Glenelg South,"105 Partridge Street, Glenelg South",Adelaide,-34.9906272649,138.5184621066,5045,"Thai, Coffee and Tea, Cafe Food",2,50,4.3,Very Good,196,61
+62,16587079,Nu Thai,"Morphett Street, City Centre","228 Morphett Street, Adelaide, City Centre, Adelaide",Adelaide,-34.9283611111,138.5939944444,5000,Thai,4,100,4.3,Very Good,233,86
+63,16587696,FB's Fancy Burgers,"Main Road, Blackwood","Shop 4, 237 Main Road, Blackwood",Adelaide,-35.0200388889,138.6165472222,5051,Burger,2,40,4.3,Very Good,373,121
+64,16586951,Good Life Modern Organic Pizza,City Centre,"170 Hutt Street, Adelaide",Adelaide,-34.9312555556,138.6123194444,5000,Pizza,3,60,4.3,Very Good,294,62
+65,16587554,Parisi's Restaurant Hyde Park,"King William Road, Unley","138 King William Road, Unley, Adelaide",Adelaide,-34.9536666667,138.5998694444,5034,"European, Italian, Pizza",3,85,4.3,Very Good,213,81
+66,16587587,Pho Baria 2,"Hanson Road, Woodville Gardens","54c Hanson Road, Woodville Gardens, Adelaide",Adelaide,-34.8681440109,138.5480539128,5012,Vietnamese,2,40,4.3,Very Good,162,71
+67,16587134,Regent Thai,"O'connell Street, North Adelaide","165 O'Connell Street, North Adelaide",Adelaide,-34.9037800130,138.5949805006,5006,Thai,3,75,4.3,Very Good,197,75
+68,16588539,Cantina Sociale,"Sturt Street, City Centre","108 Sturt Street, Adelaide",Adelaide,-34.9329980597,138.5963135585,5000,"Spanish, Tapas, Bar Food",3,60,4.3,Very Good,99,34
+69,16588554,Faraja,Goodwood,94 Carrington St Adelaide 5000,Adelaide,-34.9476972222,138.5994861111,5034,"Bar Food, Modern Australian",3,80,4.3,Very Good,150,71
+70,16587946,Saigon Gate,"Prospect Road, Kilburn","402 Prospect Road, Kilburn, Adelaide",Adelaide,-34.8634555556,138.5925305556,5084,Vietnamese,2,50,4.3,Very Good,116,43
+71,16587565,Ginling Chinese Restaurant,"Marion Road, Park Holme","609 Marion Road, South Plympton, Park Holme, Adelaide",Adelaide,-34.9819944444,138.5562444444,5038,"Asian, Chinese",2,50,4.3,Very Good,133,47
+72,16587123,Queen's Head Hotel,"Kermode Street, North Adelaide","117 Kermode Street, North Adelaide",Adelaide,-34.9115870000,138.5964660000,5006,Modern Australian,3,90,4.3,Very Good,132,51
+73,16587196,Stamps,Mitcham,"12 Welbourne Street, Mitcham",Adelaide,-34.9791569167,138.6209707707,5062,Modern Australian,3,80,4.3,Very Good,113,44
+74,16587143,Rising Sun Inn,"Bridge Street, Kensington","60 Bridge Street, Kensington",Adelaide,-34.9248432000,138.6444090000,5068,"Mediterranean, Tapas",3,80,4.3,Very Good,125,49
+75,16608075,The Currant Shed,McLaren Flat,"Ingolby Rd, McLaren Flat",Adelaide,-35.2048150000,138.5939640000,5171,Modern Australian,2,30,4.3,Very Good,79,39
+76,16587156,Samui Thai,"Greenhill Road, Hazelwood Park","548 Greenhill Road, Hazelwood Park",Adelaide,-34.9384157807,138.6597665772,5066,Thai,3,70,4.3,Very Good,87,45
+77,16587069,Namaste Nepalese Restaurant,Parkside,"41 George Street, Parkside",Adelaide,-34.9453416667,138.6131277778,5063,"Indian, Tibetan",3,65,4.3,Very Good,114,37
+78,16586771,Arya Fine Indian Cuisine,"O'connell Street, North Adelaide","North Adelaide Village, 81 O'Connell Street, North Adelaide",Adelaide,-34.9067333333,138.5955805556,5006,Indian,3,80,4.3,Very Good,161,76
+79,16587600,Taste of Bollywood,"Port Road, Hindmarsh","130 Port Road, Hindmarsh, Hindmarsh, Adelaide",Adelaide,-34.9034701272,138.5687283799,5007,Indian,3,65,4.3,Very Good,120,66
+80,16586855,Chefs of Tandoori,"Unley Road, Hyde Park","259 Unley Road, Malvern",Adelaide,-34.9572140000,138.6082150000,5061,Indian,3,90,4.3,Very Good,99,42
+81,16587534,Lobethal Bierhaus,"Main Street, Lobethal","3a Main Street, Lobethal, Adelaide",Adelaide,-34.9079700000,138.8736270000,5241,Modern Australian,4,100,4.3,Very Good,91,36
+82,16588009,Betel Leaf Cafe,"Grange Road, Seaton","Shop 2, 403 Grange Road, Seaton, Adelaide",Adelaide,-34.9058138889,138.5234527778,5023,"Asian, Vietnamese",2,50,4.3,Very Good,88,36
+83,16588069,British Raj,"Henley Beach Road, Torrensville","170 Henley Beach Road, Torrensville, Adelaide",Adelaide,-34.9241028872,138.5621063411,5031,Indian,2,40,4.3,Very Good,106,58
+84,18050804,Osteria Oggi,"Pirie Street, City Centre","76 Pirie Street, City Centre, Adelaide",Adelaide,-34.9257500000,138.6025555556,5000,"European, Italian",3,95,4.2,Very Good,254,116
+85,16588799,Nordburger,"The Parade, Norwood","168 The Parade, Norwood",Adelaide,-34.9213361111,138.6353444444,5067,"American, Burger, Ice Cream",2,40,4.2,Very Good,677,219
+86,16588258,Cafe Troppo,"Whitmore Square, City Centre","42 Whitmore Square, Adelaide",Adelaide,-34.9331992620,138.5949013755,5000,"Coffee and Tea, Cafe Food",2,40,4.2,Very Good,299,111
+87,16586941,Gaucho's,"Moonta Street, City Centre","91 Gouger Street, Adelaide",Adelaide,-34.9303638889,138.5959777778,5000,"Argentine, Steak",4,160,4.2,Very Good,505,171
+88,16586892,Ding Hao Restaurant,"Gouger Street, City Centre","26-28 Gouger Street, Adelaide",Adelaide,-34.9303694444,138.5982666667,5000,Chinese,2,45,4.2,Very Good,431,120
+89,16588570,Burgastronomy,"O'connell Street, North Adelaide","19 O'Connell Street, North Adelaide, Adelaide",Adelaide,-34.9087777778,138.5967722222,5006,"American, Burger",2,50,4.2,Very Good,427,135
+90,16588709,Le Carpe Diem Cafe Creperie,City Centre,"230-232 Grenfell Street, Adelaide",Adelaide,-34.9239033120,138.6097296327,5000,"French, Coffee and Tea, Cafe Food",2,30,4.2,Very Good,276,121
+91,16587007,La Trattoria,"King William Street, City Centre","346 King William Street, Adelaide",Adelaide,-34.9323361111,138.6000222222,5000,"Italian, Pizza, Seafood",3,80,4.2,Very Good,438,157
+92,16587540,Shiki,City Centre,"Intercontinental Hotel, Upper Lobby Level, North Terrace, Adelaide",Adelaide,-34.9215770000,138.6005550000,,Japanese,4,125,4.2,Very Good,240,79
+93,16587002,Ky Chow,"Gouger Street, City Centre","27 Gouger Street, Adelaide, City Centre, Adelaide",Adelaide,-34.9303470000,138.5982510000,5000,Chinese,3,60,4.2,Very Good,268,88
+94,16588226,The Topiary Cafe,Tea Tree Gully,"1361 North East Road, Tea Tree Gully",Adelaide,-34.8224916667,138.7362222222,5131,"Desserts, Modern Australian, Coffee and Tea, Cafe Food",3,90,4.2,Very Good,129,64
+95,16586992,Jolley's Boathouse,City Centre,"1 Jolleys Lane, City Centre, Adelaide",Adelaide,-34.9170110000,138.6002960000,5000,"Seafood, Modern Australian",4,120,4.2,Very Good,233,93
+96,16588907,The Gallery,"Waymouth Street, City Centre","30 Waymouth Street, Adelaide, City Centre, Adelaide",Adelaide,-34.9258722222,138.5983111111,5000,"Tapas, Bar Food",4,100,4.2,Very Good,166,89
+97,16587014,Lenzerheide Restaurant,Kingswood,"146 Belair Road, Kingswood, Adelaide",Adelaide,-34.9720472222,138.6091916667,5062,European,4,120,4.2,Very Good,233,82
+98,16589555,Sukhumvit Soi 38,City Centre,"54 Pulteney Street, Adelaide",Adelaide,-34.9231305721,138.6054790020,5000,Thai,3,90,4.2,Very Good,145,78
+99,16586902,East Taste Cafe,"Gouger Street, City Centre","119 Gouger Street, Adelaide",Adelaide,-34.9305000000,138.5951840000,5000,"Asian, Chinese",2,50,4.2,Very Good,260,82
