@@ -1,0 +1,101 @@
+,Restaurant_id,Name,Locality,Address,City,Latitude,Longitude,Zip Code,Cuisines,Price Range,Average Cost for two,User Rating,Rating Text,Votes,all_reviews_count
+0,16596036,Ha-Lu,"Oxford Street, Leederville","4/401 Oxford Street, Mount Hawthorn, Perth",Perth,-31.9233773227,115.8411462978,6016,"Japanese, Tapas",3,60,4.9,Excellent,1066,240
+1,16598837,Run Amuk,"Orient Street, South Fremantle","386A South Terrace, South Fremantle, Fremantle, Perth",Perth,-32.0722768677,115.7530652359,6162,Fast Food,2,50,4.9,Excellent,1038,340
+2,16597513,Pacific Rim Mix Plate,Applecross,"Shop B, 755 Canning Highway, Applecross, Melville, Perth",Perth,-32.0219001116,115.8322872967,6153,"Hawaiian, Japanese",2,40,4.9,Excellent,732,211
+3,16598976,Marumo,Nedlands,"22/145 Stirling Hwy, Nedlands, Nedlands & Dalkeith, Perth",Perth,-31.9802157847,115.7966588438,6907,"Japanese, Seafood, Modern Australian",1,0,4.9,Excellent,437,140
+4,16598168,Nobu Perth,Burswood,"Crown Metropol Perth, Great Eastern Highway, Burswood",Perth,-31.9605255258,115.8940253779,6100,"Japanese, Sushi",4,410,4.8,Excellent,1822,659
+5,16596002,Galileo Buona Cucina,Shenton Park,"199 Onslow Road, Shenton Park, Perth",Perth,-31.9609760000,115.8122330000,,Italian,3,90,4.8,Excellent,725,205
+6,16595880,Chez Pierre,Nedlands,"131 Stirling Highway, Nedlands, Nedlands & Dalkeith, Perth",Perth,-31.9799580000,115.7980270000,6009,French,4,150,4.8,Excellent,489,236
+7,16596244,Nine Fine Food,Perth CBD,"227 Bulwer Street, Perth CBD, Perth",Perth,-31.9403095293,115.8616879955,6003,"Japanese, Modern Australian",4,150,4.7,Excellent,962,291
+8,16596238,Nao Japanese,"Hay Street, Perth CBD","Equus, 580 Hay Street, Perth",Perth,-31.9546343231,115.8609222248,6000,"Japanese, Ramen",2,50,4.7,Excellent,1107,343
+9,16597030,Prego Restaurant,Floreat,"440 Cambridge Street, Floreat, Perth",Perth,-31.9407465436,115.8015542105,6014,"Italian, Mediterranean",4,120,4.7,Excellent,915,408
+10,16598265,Petite Mort,Shenton Park,"225 Onslow Road, Shenton Park, Perth",Perth,-31.9610180000,115.8114700000,6008,"European, French, Modern Australian",4,250,4.7,Excellent,554,269
+11,16597994,Shou Japanese Kitchen,Greenwood,"Shop 24, 18 Calectasia Street, Greenwood, Perth",Perth,-31.8310550000,115.8018110000,6024,Japanese,2,50,4.7,Excellent,411,157
+12,16597908,Solo Pizza,"Coode Street, South Perth","Shop 5, 135A Coode Street, South Perth, Perth",Perth,-31.9881289245,115.8621295542,6151,"Coffee and Tea, Italian, Pizza",2,50,4.7,Excellent,307,141
+13,16596860,The Bonsai Restaurant & Cafe Lounge,Northbridge,"30 Roe Street, Northbridge, Perth",Perth,-31.9494226690,115.8576690406,6003,Japanese,4,130,4.6,Excellent,1316,409
+14,16596815,S & T Thai Gourmet Cafe,Perth CBD,"349 William Street, Perth CBD, Perth CBD, Perth",Perth,-31.9454374886,115.8615253866,6003,Thai,2,55,4.6,Excellent,981,297
+15,16596306,The Prophet Lebanese Cafe,East Victoria Park,"907 Albany Highway, East Victoria Park, Perth",Perth,-31.9873750642,115.9047770128,6101,"Middle Eastern, Cafe Food",3,65,4.6,Excellent,1094,319
+16,16598048,P'tite Ardoise Bistro,Perth CBD,"283 Beaufort Street, Perth, Perth CBD, Perth",Perth,-31.9443950771,115.8657894284,6003,French,4,120,4.6,Excellent,951,357
+17,16597786,Koko Black Claremont,Claremont,"Claremont Quarter, 23 Saint Quentin Avenue, Claremont, Perth",Perth,-31.9826490000,115.7794490000,,"Desserts, Cafe Food",2,35,4.6,Excellent,1084,282
+18,16595904,Clarkes of North Beach,North Beach,"97 Flora Terrace, North Beach, Perth",Perth,-31.8550443517,115.7541615888,6020,Modern Australian,4,120,4.6,Excellent,400,171
+19,16597649,Sparrow Indonesian Restaurant,Perth CBD,"301 Lord Street, Perth CBD, Perth",Perth,-31.9433460000,115.8733990000,6003,"Indonesian, Malaysian",2,40,4.6,Excellent,394,151
+20,16597311,Bollywood Spices Indian Cuisine,North Perth,"Shop 9, 299 Charles Street, North Perth, Perth",Perth,-31.9291646770,115.8522362262,6006,Indian,2,50,4.6,Excellent,378,175
+21,16600545,Bossman Coffee,Mount Lawley,"3/669 Beaufort Street, Mount Lawley, Perth",Perth,-31.9337708524,115.8722994849,6050,Cafe Food,1,15,4.6,Excellent,297,105
+22,16597802,Tak'E Sushi,Dianella,"Shop 50, Dianella Plaza, Corner Alexander Drive & Grand Promande, Dianella, Stirling, Perth",Perth,-31.8960180535,115.8710106835,6059,"Japanese, Sushi",2,30,4.6,Excellent,230,69
+23,16595894,Ciao Italia,South Perth,"273 Mill Point Road, South Perth, Perth",Perth,-31.9777042880,115.8687559515,6151,"Italian, Seafood",3,65,4.5,Excellent,1794,504
+24,16600511,Palsaik Namoo,Perth CBD,"68 Barrack Street, Perth CBD, Perth",Perth,-31.9543131550,115.8605121821,6000,"Korean, BBQ",3,70,4.5,Excellent,658,215
+25,16596362,Sayers,"Carr Place, Leederville","Shop 1, 224 Carr Place, Leederville, Perth",Perth,-31.9372790000,115.8425980000,6007,"Modern Australian, Cafe Food",2,50,4.5,Excellent,2126,548
+26,16597137,The Raw Kitchen,Fremantle,"181A High Street, Fremantle, Perth",Perth,-32.0534455245,115.7499803603,6160,"Healthy Food, Pizza, Cafe Food",3,60,4.5,Excellent,1036,386
+27,16595766,Balthazar,Perth CBD,"6 The Esplanade, Perth CBD, Perth",Perth,-31.9565943065,115.8581692725,6000,"European, Modern Australian",4,150,4.5,Excellent,1039,284
+28,16599597,Is Donburi,Northbridge,"Shop 10, 189 William Street, Northbridge, Perth",Perth,-31.9493708924,115.8590265736,6003,Japanese,2,50,4.5,Excellent,881,292
+29,16598045,Bivouac Canteen & Bar,Northbridge,"198 William Street, Northbridge, Perth",Perth,-31.9492955032,115.8592924476,6003,"Mediterranean, Middle Eastern, Tapas",4,105,4.5,Excellent,1047,369
+30,16596548,Hawker's Cuisine,Northbridge,"17/68 Roe Street, Northbridge",Perth,-31.9478608221,115.8595204353,6003,"Chinese, Malaysian",2,50,4.5,Excellent,968,252
+31,16596581,Alfred's Kitchen,Guildford,"Corner Meadow & James Street, Guildford, Perth",Perth,-31.8993700000,115.9681020000,6055,"Burger, Fast Food",2,35,4.5,Excellent,1220,338
+32,16597131,Cafe Elixir,Wanneroo,"3 Rocca Way, Wanneroo, Perth",Perth,-31.7510410000,115.8049010000,06065,Cafe Food,3,60,4.5,Excellent,996,413
+33,16596234,Must Winebar,Highgate,"519 Beaufort Street, Highgate, Perth",Perth,-31.9380610000,115.8697320000,6003,Modern Australian,4,170,4.5,Excellent,1099,316
+34,16599908,Red Opium,"Hay Street, Perth CBD","21/326 Hay Street, Perth CBD, Perth",Perth,-31.9571239000,115.8686983000,6000,"Tapas, Thai",3,60,4.5,Excellent,498,270
+35,16596197,Meeka Restaurant,Subiaco,"361 Rokeby Road, Subiaco, Perth",Perth,-31.9550897599,115.8237488195,6008,"Middle Eastern, Modern Australian",4,135,4.5,Excellent,472,179
+36,16599078,Mama Tran,Perth CBD,"Shop 10, 36-40 Milligan Street, Perth CBD, Perth",Perth,-31.9513287122,115.8519431949,6000,"Vietnamese, Asian",2,40,4.5,Excellent,567,138
+37,16597360,Frisk. Small Bar,Northbridge,"103 Francis Street, Northbridge, Perth",Perth,-31.9467086229,115.8567014337,6003,"Bar Food, Tapas",3,60,4.5,Excellent,637,164
+38,16597105,Grill'd - Mount Lawley,Mount Lawley,"669 Beaufort Street, Mount Lawley, Perth",Perth,-31.9338332000,115.8725368000,6050,"Burger, Healthy Food",2,40,4.5,Excellent,1137,246
+39,16596754,Yuki Japanese Restaurant,Willetton,"113 Collins Road, Willeton, Willetton, Perth",Perth,-32.0562723486,115.9024176747,6155,Japanese,3,60,4.5,Excellent,538,176
+40,16596772,Kanta,Langford,"Shop 3, 70 Langford Avenue, Langford, Perth",Perth,-32.0434150000,115.9428480000,,Japanese,2,40,4.5,Excellent,387,140
+41,16595961,Embers,Gooseberry Hill,"169 Railway Road, Gooseberry Hill, Kalamunda, Perth",Perth,-31.9581557205,116.0516826063,6076,"Pizza, Italian",3,80,4.5,Excellent,430,180
+42,16597161,Mother India Restaurant,"Forrest Street, Fremantle","23 Forrest Street, Fremantle, Perth",Perth,-32.0486930000,115.7636820000,6160,Indian,4,110,4.5,Excellent,262,121
+43,16600553,Bread In Common,Fremantle,"43 Pakenham Street, Fremantle, Perth",Perth,-32.0564810000,115.7453410000,6160,"Mediterranean, Bakery",4,110,4.4,Very Good,1737,676
+44,16600681,Pinchos,Leederville,"749 Newcastle Street, Leederville, Perth",Perth,-31.9376580000,115.8414280000,6007,"Spanish, Tapas",3,75,4.4,Very Good,829,358
+45,16595944,Duende,Leederville,"662 Newcastle Street, Leederville, Perth",Perth,-31.9376470000,115.8426130000,6007,"Tapas, Spanish",3,85,4.4,Very Good,2043,634
+46,16596635,Andaluz Bar & Tapas,Perth CBD,"21 Howard Street, Perth CBD, Perth",Perth,-31.9555161786,115.8572375402,6000,"Spanish, Tapas",3,95,4.4,Very Good,1267,275
+47,16596980,Clarences,Mount Lawley,"566, Beaufort Street, Mount Lawley, Perth",Perth,-31.9371760000,115.8710190000,6050,"Tapas, Modern Australian",3,80,4.4,Very Good,1222,316
+48,16597128,Restaurant Jun,Perth CBD,"568 Hay Street, Perth CBD, Perth",Perth,-31.9549105439,115.8613212034,6000,"Japanese, Sushi",3,65,4.4,Very Good,666,163
+49,16596534,West End Deli,West Perth,"95 Carr Street, West Perth, Perth",Perth,-31.9391939384,115.8501031995,6005,Cafe Food,3,60,4.4,Very Good,1025,354
+50,16596981,V Burger Bar,East Victoria Park,"Shop 12, 910 Albany Highway, East Victoria Park, Perth",Perth,-31.9871464309,115.9049148113,6101,Burger,2,50,4.4,Very Good,992,329
+51,16597986,Modo Mio,Burswood,"Crown Perth, Great Eastern Highway, Burswood",Perth,-31.9614758771,115.8946278691,6100,Italian,4,200,4.4,Very Good,1024,419
+52,16597153,Tak Chee House,Perth CBD,"Shop 1, 364 William Street, Perth CBD, Perth",Perth,-31.9453882702,115.8617057651,6000,"Asian, Malaysian",2,45,4.4,Very Good,664,231
+53,16598736,Lapa Brazilian Restaurant,Subiaco,"375 Hay Street, Subiaco, Perth",Perth,-31.9476056325,115.8264803141,6008,"BBQ, Brazilian, Latin American",4,120,4.4,Very Good,848,286
+54,16596615,Good Fortune Roast Duck House,Perth CBD,"354 William Street, Perth CBD, Perth",Perth,-31.9454767495,115.8616698906,6000,Chinese,3,70,4.4,Very Good,823,275
+55,17841646,The Modern Eatery,Fremantle,"124 High Street, Fremantle, Perth",Perth,-32.0535231014,115.7489031181,6160,"Japanese, Sushi, Modern Australian",2,50,4.4,Very Good,298,139
+56,16598458,Veggie Mama,Mount Lawley,"5/567 Beaufort Street, Mount Lawley, Perth",Perth,-31.9364687781,115.8706133813,6050,"Vegetarian, Healthy Food, Cafe Food",2,40,4.4,Very Good,525,170
+57,16597136,Himalayan Nepalese Restaurant & Cafe,Victoria Park,"419 Albany Highway, Victoria Park, Perth",Perth,-31.9750024539,115.8975880221,6100,"Tibetan, Nepalese",3,70,4.4,Very Good,782,247
+58,16596189,Matilda Bay Restaurant & Bar,Crawley,"3 Hackett Drive, Crawley",Perth,-31.9861700000,115.8215100000,6009,"Seafood, Modern Australian",4,139,4.4,Very Good,633,243
+59,16596785,Took Bae Kee I Restaurant,Perth CBD,"Shop 6, 542 Hay Street, Perth CBD",Perth,-31.9550963027,115.8623042330,6000,"Korean, Asian",2,40,4.4,Very Good,366,95
+60,16596313,Red Cabbage Food + Wine,South Perth,"49/15 Labouchere Road, South Perth, Perth",Perth,-31.9730548089,115.8504381403,6151,"European, Modern Australian",4,200,4.4,Very Good,621,268
+61,16600685,Noodle Forum,Perth CBD,"Equus Arcade, Shop 203, 580 Hay Street, Perth CBD, Perth",Perth,-31.9539854428,115.8613537252,6000,"Asian, Malaysian",2,35,4.4,Very Good,412,154
+62,16599818,Silver Sushi,Willetton,"1/41 Burrendah Boulevard, Willeton, Perth, Willetton, Perth",Perth,-32.0563860108,115.8806421608,6155,Japanese,2,45,4.4,Very Good,444,162
+63,16596062,Hong Kong BBQ House,Northbridge,"76 Francis Street, Northbridge, Perth",Perth,-31.9472400588,115.8582457155,6003,"BBQ, Chinese, Seafood",3,85,4.4,Very Good,567,211
+64,16596808,Pizzaca,Doubleview,"161 Gildercliffe Street, Scarborough, Doubleview, Perth",Perth,-31.8937348295,115.7753493637,6019,"Sandwich, Coffee and Tea, Pizza",3,60,4.4,Very Good,566,179
+65,16595749,Annalakshmi on the Swan,Perth CBD,"Upstairs, Barrack Street Jetty, Jetty 4, Riverside Drive, Perth CBD, Perth",Perth,-31.9595646399,115.8574702218,6000,Indian,3,60,4.4,Very Good,555,151
+66,16597037,Dosukoi Ramen in Fremantle,"Henderson Street, Fremantle","Fremantle Markets, Stall 7, South Terrace & Henderson Street, Fremantle, Perth",Perth,-32.0547290000,115.7498320000,6160,"Japanese, Ramen",2,35,4.4,Very Good,342,120
+67,16596685,Ohnamiya Japanese,"Kearns Crescent, Ardross","34 Kearns Crescent, Applecross, Ardross, Perth",Perth,-32.0198734000,115.8353793000,6153,Japanese,2,45,4.4,Very Good,528,146
+68,16596075,ilpasto Italian Trattoria,Inglewood,"4/885 Beaufort Street, Inglewood, Perth",Perth,-31.9216060000,115.8850530000,6052,"Italian, Mediterranean",4,100,4.4,Very Good,366,151
+69,16600788,Habitue,"Harvest Road, North Fremantle","1 Harvest Road, North Fremantle, Fremantle, Perth",Perth,-32.0354499000,115.7538599000,06159,"Modern Australian, European",4,120,4.4,Very Good,252,130
+70,16595997,Friends Restaurant,Perth CBD,"200 St Georges Terrace, Perth CBD, Perth",Perth,-31.9535277248,115.8532879874,6004,"Modern Australian, Australian",4,250,4.4,Very Good,345,170
+71,16601204,Juniper & Bay,Como,"3 Preston Street, Como, Perth",Perth,-31.9939551367,115.8569243923,6152,"European, German, Modern Australian",3,80,4.4,Very Good,165,99
+72,16596286,Phi Yen,Perth CBD,"205 Brisbane Street, Perth CBD, Perth",Perth,-31.9418774793,115.8607287705,6003,Vietnamese,3,60,4.4,Very Good,426,133
+73,16596155,Limones Restaurant,Bicton,"1, Point Walter Road, Bicton WA 6157, Perth",Perth,-32.0357170000,115.7842230000,6158,Italian,4,140,4.4,Very Good,244,118
+74,16596765,Goreng²,Mount Lawley,"75 Walcott Street, Mount Lawley, Perth",Perth,-31.9341987928,115.8719635382,6050,"Asian, Malaysian",2,50,4.4,Very Good,335,121
+75,16595935,Delisio,Subiaco,"4/94 Rokeby Road, Subiaco, Perth",Perth,-31.9477180000,115.8241730000,6008,Italian,3,65,4.4,Very Good,224,63
+76,16597401,Charcoal Chicken Express Dianella,"Grand Promenade, Dianella","Cnr Alexander Drive & Grand Promenade, Centro Dianella",Perth,-31.8959246875,115.8708356693,6059,Portuguese,2,35,4.4,Very Good,245,96
+77,16596307,Punjab Indian Restaurant,Innaloo,"371 Scarborough Beach Road, Innaloo, Stirling, Perth",Perth,-31.9023530000,115.7962420000,6018,"Indian, Pakistani",3,65,4.4,Very Good,330,127
+78,16597084,Ararat Kebabs,Crawley,"Shop 6, 88 Broadway, Crawley, Perth",Perth,-31.9839844650,115.8151845261,6009,Turkish,2,30,4.4,Very Good,253,69
+79,16596550,Musashi,Joondalup,"Unit 7, 115 Grand Boulevard, Joondalup, Perth",Perth,-31.7418805271,115.7705673203,6027,Japanese,2,35,4.4,Very Good,170,65
+80,16599574,Lalla Rookh Bar & Eating House,Perth CBD,"Allendale Square, 77 St Georges Terrace, Perth CBD, Perth",Perth,-31.9555292641,115.8583248407,6000,"Italian, Pizza",3,95,4.3,Very Good,657,284
+81,16600792,Brika,Perth CBD,"177 Stirling Street, Perth CBD, Perth",Perth,-31.9469729187,115.8655399829,6000,"Greek, Tapas, Mediterranean",3,85,4.3,Very Good,808,355
+82,16600889,Little Creatures Fremantle Brewery,Fremantle,"40 Mews Road, Fremantle, Perth",Perth,-32.0591692695,115.7449022681,6160,"Bar Food, Modern Australian",3,60,4.3,Very Good,2724,756
+83,16599599,Mr. Munchies Sushi,Mount Lawley,"4/669 Beaufort Street, Mount Lawley, Perth",Perth,-31.9338277595,115.8723115548,6050,"Japanese, Sushi, Healthy Food",3,70,4.3,Very Good,1199,340
+84,16602022,James Parker Sushi X Sake,Northbridge,"Shop 2, 182 James Street, Northbridge, Perth",Perth,-31.9472062040,115.8557147160,6003,"Japanese, Sushi",3,80,4.3,Very Good,339,155
+85,16596479,Voyage Kitchen,Sorrento,"128 West Coast Drive, Sorrento, Perth",Perth,-31.8375020000,115.7500380000,6020,"Modern Australian, Cafe Food",3,80,4.3,Very Good,1105,403
+86,16596072,Il Lido Italian Canteen,Cottesloe,"88 Marine Parade, Cottesloe, Perth",Perth,-31.9957814923,115.7521884888,6011,Italian,4,105,4.3,Very Good,1196,414
+87,16598876,Aisuru Sushi,Northbridge,"208 William Street, Northbridge, Perth",Perth,-31.9490642147,115.8596350998,6003,"Japanese, Sushi",3,80,4.3,Very Good,1319,368
+88,16599605,The Apple Daily Bar & Eating House,Perth CBD,"Brookfield Place, 125 St Georges Terrace, Perth CBD, Perth",Perth,-31.9543090000,115.8550633000,6000,"Asian, Fusion",4,115,4.3,Very Good,582,233
+89,16597253,Blackbird,"Eastbrook Terrace, East Perth","Suite 4, 10 Eastbrook Terrace, East Perth, Perth",Perth,-31.9527343226,115.8766171709,6004,"European, Tapas, Modern Australian",3,60,4.3,Very Good,592,269
+90,16596049,Hanami Japanese Restaurant,Mount Lawley,"685C Beaufort Street, Mount Lawley, Perth",Perth,-31.9328722850,115.8729596436,6050,"Japanese, Sushi",3,75,4.3,Very Good,777,223
+91,16599698,Cecchi's,Inglewood,"965 Beaufort Street, Inglewood, Perth",Perth,-31.9182831000,115.8896991000,6052,European,4,123,4.3,Very Good,351,185
+92,16596533,Jus Burgers,Leederville,"743 Newcastle Street, Leederville, Perth",Perth,-31.9373892187,115.8418906108,6007,Burger,2,45,4.3,Very Good,1065,283
+93,16596629,Poppo Korean & Japanese,Perth CBD,"137 Barrack Street, Perth CBD, Perth",Perth,-31.9527485464,115.8610841632,6000,"Japanese, Korean",3,60,4.3,Very Good,479,153
+94,16599777,Galangal,Mount Hawthorn,"180 Scarborough Beach Road, Mount Hawthorn, Perth",Perth,-31.9205865256,115.8372641355,6016,Thai,3,80,4.3,Very Good,452,246
+95,16599959,Varsity Bar,Crawley,"88 Broadway, Crawley, Nedlands & Dalkeith, Perth",Perth,-31.9838890000,115.8150860000,6009,"American, Burger",2,50,4.3,Very Good,493,200
+96,16599613,Red Basil Thai Cuisine,Victoria Park,"Shop 2, 335 Albany Highway, Victoria Park, Perth",Perth,-31.9733176069,115.8964386955,6100,Thai,2,40,4.3,Very Good,505,213
+97,16598924,The Cabin Small Bar,Mount Hawthorn,"174 Scarborough Beach Road, Mount Hawthorn, Perth",Perth,-31.9206884039,115.8378126472,6016,"Tapas, Modern Australian",3,80,4.3,Very Good,446,171
+98,16601169,Koko Black,Perth CBD,"140 William, Perth CBD, Perth",Perth,-31.9520547051,115.8577984572,6000,"Desserts, Cafe Food",2,30,4.3,Very Good,333,147
+99,16596713,Canton Bay Chinese Restaurant,Northbridge,"20 Roe Street, Northbridge, Perth",Perth,-31.9495449983,115.8580016345,6003,"Chinese, Yum Cha",3,60,4.3,Very Good,426,162
