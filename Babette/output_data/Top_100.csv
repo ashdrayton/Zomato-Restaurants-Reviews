@@ -1,0 +1,101 @@
+,Restaurant_id,Name,Locality,Address,City,Latitude,Longitude,Price Range,Average Cost for two,User Rating,Rating Text,Votes,all_reviews_count,Cuisines
+0,16572612,Vue de monde,CBD,"Level 55, Rialto, 525 Collins Street, CBD, Melbourne",Melbourne,-37.8189544974,144.95793364940002,4,600,4.9,Excellent,3225,987,"Australian, Contemporary"
+1,16585905,Tipo 00,CBD,"361 Little Bourke Street, CBD, Melbourne",Melbourne,-37.8135277429,144.9619733915,4,150,4.9,Excellent,1927,717,Italian
+2,17881527,Dexter,Preston,"456 High Street, Preston, Melbourne",Melbourne,-37.736195646,145.0044562295,4,110,4.9,Excellent,1475,685,"American, BBQ"
+3,16558798,Quay,Circular Quay,"Upper Level, Overseas Passenger Terminal 5 Hickson Road, Circular Quay, Sydney",Sydney,-33.8580292558,151.20997041459998,4,500,4.9,Excellent,1366,454,Modern Australian
+4,16559171,Tetsuya's,CBD,"529 Kent Street, CBD, Sydney",Sydney,-33.8751428662,151.2049315497,4,440,4.9,Excellent,1235,329,Japanese
+5,16596036,Ha-Lu,"Oxford Street, Leederville","4/401 Oxford Street, Mount Hawthorn, Perth",Perth,-31.9233773227,115.84114629780001,3,60,4.9,Excellent,1067,241,"Japanese, Tapas"
+6,16598837,Run Amuk,"Orient Street, South Fremantle","386A South Terrace, South Fremantle, Fremantle, Perth",Perth,-32.0722768677,115.7530652359,2,50,4.9,Excellent,1038,340,Fast Food
+7,16575846,Pho Hung Vuong Springvale,Springvale,"Shop 2, 15 Balmoral Avenue, Springvale, Melbourne",Melbourne,-37.9494092102,145.1510185003,2,40,4.9,Excellent,923,305,"Vietnamese, Pho"
+8,16574138,Suzuran,Camberwell,"1025 Burke Road, Camberwell, Melbourne",Melbourne,-37.8217645249,145.05846451969998,2,35,4.9,Excellent,805,195,"Japanese, Sushi"
+9,16586014,Minamishima,Richmond,"4 Lord Street, Richmond, Melbourne, VIC",Melbourne,-37.8198314176,145.005193837,4,450,4.9,Excellent,748,290,"Japanese, Sushi"
+10,16597513,Pacific Rim Mix Plate,Applecross,"Shop B, 755 Canning Highway, Applecross, Melville, Perth",Perth,-32.0219001116,115.8322872967,2,40,4.9,Excellent,731,211,"Hawaiian, Japanese"
+11,15547004,Restaurant Hubert,CBD,"15 Bligh Street, CBD, Sydney",Sydney,-33.865348331,151.2106238678,4,150,4.9,Excellent,589,224,"French, European"
+12,16595540,Julius Pizzeria,South Brisbane,"77 Grey Street, South Brisbane, Brisbane",Brisbane,-27.473622216,153.01796201620002,3,80,4.9,Excellent,493,181,"Pizza, Italian"
+13,16593535,Rogue Bistro,Newstead,"14 Austin Street, Newstead, Brisbane",Brisbane,-27.4458944148,153.0443733931,4,140,4.9,Excellent,491,205,Modern Australian
+14,15545439,Manpuku,Chatswood,"226 Victoria Avenue, Chatswood, Sydney",Sydney,-33.794417475799996,151.1895420402,2,40,4.9,Excellent,486,190,"Japanese, Ramen"
+15,16559140,Tan Viet Noodle House,Cabramatta,"Shop 2-3, 100 John Street, Cabramatta, Sydney",Sydney,-33.895041095500005,150.934162885,2,35,4.9,Excellent,463,182,"Asian, Vietnamese"
+16,16575773,Scopri Italian Food & Wine,Carlton,"191, Nicholson Street, Carlton, Melbourne",Melbourne,-37.7957182787,144.9751148745,4,180,4.9,Excellent,458,193,Italian
+17,16569454,LuMi Bar & Dining,Pyrmont,"56 Pirrama Road, 	Pyrmont, Pyrmont, Sydney",Sydney,-33.8671367304,151.1975169182,4,190,4.9,Excellent,452,196,"Italian, Japanese"
+18,16588873,Peel St,"Peel Street, City Centre","9 Peel Street, City Centre, Adelaide",Adelaide,-34.9233805556,138.5979472222,4,110,4.9,Excellent,391,156,"Asian, Middle Eastern, Modern Australian"
+19,16564814,Sixpenny,Stanmore,"83 Percival Rd, Stanmore, Sydney",Sydney,-33.8925519485,151.1647349596,4,280,4.9,Excellent,230,107,Modern Australian
+20,16588993,Orana,"Rundle Street, City Centre","285 Rundle Street, Adelaide",Adelaide,-34.922626,138.610128,4,350,4.9,Excellent,153,78,Australian
+21,16582887,Rice Paper Scissors,CBD,"15, Hardware Lane, CBD, Melbourne",Melbourne,-37.814313,144.961402,3,80,4.8,Excellent,2566,991,"Asian Fusion, Tapas"
+22,16598168,Nobu Perth,Burswood,"Crown Metropol Perth, Great Eastern Highway, Burswood",Perth,-31.960525525799998,115.89402537790001,4,410,4.8,Excellent,1822,659,"Japanese, Sushi"
+23,16572320,Shira Nui,Glen Waverley,"247 Springvale Road, Glen Waverley, Melbourne",Melbourne,-37.8788198823,145.165768303,4,150,4.8,Excellent,1634,420,"Sushi, Japanese"
+24,16580129,Yeonga Korean BBQ Restaurant,North Melbourne,"1 Cobden Street, North Melbourne, Melbourne",Melbourne,-37.805638915900005,144.9570951238,4,100,4.8,Excellent,1566,520,"Korean BBQ, Korean, BBQ"
+25,16570775,Attica,Ripponlea,"74 Glen Eira Road, Ripponlea, Melbourne",Melbourne,-37.8769242618,144.9973121658,4,600,4.8,Excellent,1485,491,"Australian, Contemporary"
+26,16564570,Sokyo,"The Star, Pyrmont","Level G, The Darling, The Star, 80 Pyrmont Street, Pyrmont",Sydney,-33.869338,151.19597,4,120,4.8,Excellent,1402,567,Japanese
+27,16573311,The Proud Peacock,Mount Waverley,"28 Hamilton Place, Mount Waverley, Melbourne",Melbourne,-37.8759680969,145.1287893578,2,45,4.8,Excellent,1352,625,"Chinese, Thai, Vietnamese"
+28,16572155,Punch Lane,CBD,"43 Little Bourke Street, CBD, Melbourne",Melbourne,-37.8108116997,144.9713500589,4,150,4.8,Excellent,1090,429,"Mediterranean, Modern Australian"
+29,18241437,KOI Dessert Bar,"Kensington Street, Chippendale","46 Kensington Street, Chippendale, Sydney",Sydney,-33.8854879306,151.2018050998,4,150,4.8,Excellent,997,437,"Desserts, Modern Australian"
+30,16571744,Lentil As Anything,Abbotsford,"1-3 St Heliers Street, Abbotsford, Melbourne",Melbourne,-37.8027048265,145.0035664067,1,25,4.8,Excellent,976,247,"Vegetarian, Vegan"
+31,16574371,Railway Club Hotel Port Melbourne,Port Melbourne,"107 Raglan Street, Port Melbourne, Melbourne",Melbourne,-37.8338037913,144.9444773421,4,120,4.8,Excellent,862,308,"Steak, Pub Food"
+32,16579337,Aka Siro,Collingwood,"106, Cambridge Street, Collingwood, Melbourne",Melbourne,-37.8051562667,144.9855748192,3,80,4.8,Excellent,841,236,Japanese
+33,16587626,Mandoo,"Bank Street, City Centre","3/26 Bank Street, Adelaide, SA",Adelaide,-34.922517543000005,138.5974917188,2,45,4.8,Excellent,764,290,"Korean, Dumplings"
+34,17868098,Bahari The Hellenic Palate,Richmond,"179 Swan Street, Richmond, Melbourne, VIC",Melbourne,-37.825587685500004,144.99757401649998,3,80,4.8,Excellent,756,394,Greek
+35,16596002,Galileo Buona Cucina,Shenton Park,"199 Onslow Road, Shenton Park, Perth",Perth,-31.960976,115.812233,3,90,4.8,Excellent,725,205,Italian
+36,16590678,Oishii Sushi Bar,Sunnybank Hills,"Shop 2, 70 Pinelands Road, Sunnybank Hills, Brisbane",Brisbane,-27.591067612800003,153.0605843291,2,40,4.8,Excellent,720,192,"Japanese, Sushi"
+37,16564699,The Baxter Inn,CBD,"Basement, 152-156 Clarence Street, CBD, Sydney",Sydney,-33.8697479935,151.2056279182,3,60,4.8,Excellent,701,142,Bar Food
+38,17744148,Ho Jiak Haymarket 好吃禧市,Haymarket,"92 Hay Street, Chinatown, Haymarket, Sydney",Sydney,-33.8793663848,151.2040541321,3,70,4.8,Excellent,553,218,"Malaysian, Asian, Chinese, Asian Fusion, Singaporean"
+39,16562527,Bistro Papillon,CBD,"98 Clarence Street, CBD, Sydney",Sydney,-33.868035927,151.2053140998,3,80,4.8,Excellent,505,155,French
+40,16595880,Chez Pierre,Nedlands,"131 Stirling Highway, Nedlands, Nedlands & Dalkeith, Perth",Perth,-31.979958,115.798027,4,150,4.8,Excellent,489,236,French
+41,16587409,Indian Temptations,"Main North Road, Enfield","490 Main North Road, Blair Athol",Adelaide,-34.8526305556,138.6004333333,2,50,4.8,Excellent,403,156,Indian
+42,16567404,Ester,Chippendale,"46-52 Meagher Street, Chippendale, Sydney",Sydney,-33.887620195100006,151.2009685859,4,150,4.8,Excellent,394,190,Modern Australian
+43,15544520,Five Points Burgers,North Sydney,"124 Walker Street, North Sydney, Sydney",Sydney,-33.8372437721,151.2090309709,2,40,4.8,Excellent,331,169,"Burger, American"
+44,17744990,The Dolar Shop Hot Pot Restaurant 豆捞坊 - 1909 Dining Precinct,"Market City, Chinatown","Shop 5&6, Level 3, 1909 Dining Precinct, Market City, 9 - 13 Hay Street, Chinatown, Haymarket, Sydney",Sydney,-33.8797716623,151.2029835954,4,120,4.8,Excellent,278,110,"Chinese, Hot Pot, Asian, Seafood"
+45,16590663,Grill'd - Rosalie,Rosalie Village,"Rosalie Village, Shop 19, 21 Nash Street, Paddington, Brisbane",Brisbane,-27.4654874434,152.9970585555,2,40,4.8,Excellent,263,55,Burger
+46,16571710,Laksa King,Flemington,"6-12 Pin Oak Crescent, Flemington, Melbourne",Melbourne,-37.7877957536,144.9294968694,3,70,4.7,Excellent,4967,1302,"Malaysian, Chinese"
+47,16571189,Cumulus Inc.,CBD,"Ground Level, 45 Flinders Lane, CBD, Melbourne",Melbourne,-37.814794348,144.9731357396,4,150,4.7,Excellent,4951,1125,"Modern European, Contemporary"
+48,16571938,MoVida Bar De Tapas,CBD,"1 Hosier Lane, CBD, Melbourne",Melbourne,-37.8167026904,144.9691895396,4,120,4.7,Excellent,4325,899,"Spanish, Tapas"
+49,16582069,Jinda Thai Restaurant,Abbotsford,"7 Ferguson Street, Abbotsford, Melbourne",Melbourne,-37.8093087478,144.99236851930002,3,80,4.7,Excellent,3231,1031,Thai
+50,16571812,Maha Restaurant,CBD,"21 Bond Street, CBD, Melbourne",Melbourne,-37.818166823,144.9626845121,4,300,4.7,Excellent,2638,929,Middle Eastern
+51,16585400,Hakata Gensuke Ramen Professionals,CBD,"168 Russell Street, CBD, Melbourne",Melbourne,-37.8123360761,144.96804222469999,3,50,4.7,Excellent,2335,843,"Ramen, Japanese"
+52,16573067,Cutler & Co,Fitzroy,"55-57 Gertrude Street, Fitzroy, Melbourne",Melbourne,-37.8055705717,144.9759430066,4,200,4.7,Excellent,2075,569,Modern Australian
+53,16582573,Mr. Miyagi,Windsor,"99 Chapel Street, Windsor, Melbourne, VIC",Melbourne,-37.8542571942,144.99287344520002,3,80,4.7,Excellent,2022,905,"Asian, Japanese"
+54,16572254,Rumi Brunswick,Brunswick,"116 Lygon Street, East Brunswick, Melbourne",Melbourne,-37.7748421244,144.9712652341,4,100,4.7,Excellent,1792,470,Middle Eastern
+55,16572325,Shoya Nouvelle Wafu Cuisine,CBD,"25 Market Lane, CBD, Melbourne",Melbourne,-37.8117808942,144.96922876690002,4,140,4.7,Excellent,1512,387,"Japanese, Sushi, Japanese BBQ"
+56,16571694,La Luna Bistro,Carlton North,"320 Rathdowne Street, Carlton North, Melbourne",Melbourne,-37.7911334282,144.9718352035,4,160,4.7,Excellent,1450,415,"Modern Australian, Steak, Mediterranean"
+57,16562756,Mappen Noodle Restaurant,"SkyView Shopping Plaza, CBD","Shop 11, Skyview Shopping Plaza, 537-551 George Street, CBD, Sydney",Sydney,-33.8761343944,151.2058719993,1,25,4.7,Excellent,1372,363,"Japanese, Asian"
+58,16571144,Claypots Seafood Bar,St Kilda,"213 Barkly Street, St Kilda, Melbourne, VIC",Melbourne,-37.8699640609,144.9806107208,3,90,4.7,Excellent,1336,356,Seafood
+59,16578925,Hell of the North,Fitzroy,"135 Greeves Street, Fitzroy, Melbourne",Melbourne,-37.8003351649,144.9835487455,4,135,4.7,Excellent,1335,418,"French, European"
+60,16583132,Wagyu Ya,South Yarra,"156 Toorak Road, South Yarra, Melbourne",Melbourne,-37.839070981599995,144.9914190173,4,150,4.7,Excellent,1118,385,"Japanese, Steak, Japanese BBQ"
+61,16596238,Nao Japanese,"Hay Street, Perth CBD","Equus, 580 Hay Street, Perth",Perth,-31.9546343231,115.86092222479999,2,50,4.7,Excellent,1107,343,"Japanese, Ramen"
+62,16572845,Pho Hung Vuong Saigon,Footscray,"128 Hopkins Street, Footscray, Melbourne",Melbourne,-37.799815922,144.900650382,2,40,4.7,Excellent,1102,362,"Vietnamese, Pho"
+63,16559190,Thai Pothong,Newtown,"294 King Street, Newtown, Sydney",Sydney,-33.8967473326,151.1796621233,4,100,4.7,Excellent,1031,289,Thai
+64,16596244,Nine Fine Food,Perth CBD,"227 Bulwer Street, Perth CBD, Perth",Perth,-31.9403095293,115.86168799549999,4,150,4.7,Excellent,962,291,"Japanese, Modern Australian"
+65,16582991,Sezar,CBD,"6 Melbourne Place, CBD, Melbourne",Melbourne,-37.813434773000004,144.968899861,4,120,4.7,Excellent,944,410,Middle Eastern
+66,16570683,A1 Bakery,Brunswick,"643-645 Sydney Road, Brunswick, Melbourne",Melbourne,-37.762039427800005,144.9628776312,2,30,4.7,Excellent,916,248,"Bakery, Middle Eastern"
+67,16597030,Prego Restaurant,Floreat,"440 Cambridge Street, Floreat, Perth",Perth,-31.940746543600003,115.80155421049999,4,120,4.7,Excellent,915,408,"Italian, Mediterranean"
+68,16558906,Ryo's Noodles,Crows Nest,"125 Falcon Street, Crows Nest, Sydney",Sydney,-33.828515,151.206632,2,50,4.7,Excellent,818,256,"Japanese, Ramen"
+69,16570870,Bistro Thierry,Toorak,"511 Malvern Road, Toorak, Melbourne, VIC",Melbourne,-37.848244240999996,145.0038185343,4,200,4.7,Excellent,799,242,French
+70,16577621,Komeyui,South Melbourne,"181 Ferrars Street, South Melbourne, Melbourne",Melbourne,-37.830288,144.953843,4,150,4.7,Excellent,771,245,"Japanese, Japanese BBQ"
+71,16571855,Matteo's Restaurant,Fitzroy North,"533, Brunswick Street, Fitzroy North, Melbourne",Melbourne,-37.7911649575,144.9795908108,4,280,4.7,Excellent,755,262,"Asian, Fusion"
+72,16577899,Myong Tofu,Flemington,"314 Racecourse Road, Flemington, Melbourne",Melbourne,-37.7881076154,144.9302398413,3,70,4.7,Excellent,694,312,"Malaysian, Chinese"
+73,16571541,Il Bacaro Cucina e Bar,CBD,"168-170 Little Collins Street, CBD, Melbourne",Melbourne,-37.813918957199995,144.9680127204,4,200,4.7,Excellent,682,219,Italian
+74,16573923,Aoba,Malvern,"279 Glenferrie Road, Malvern, Melbourne",Melbourne,-37.856986727199995,145.02913858739998,3,50,4.7,Excellent,637,194,Japanese
+75,16592896,Gerard's Bistro,Fortitude Valley,"Shop 14, 15 James Street, Fortitude Valley, Brisbane",Brisbane,-27.4565996683,153.0390626192,4,200,4.7,Excellent,637,276,Middle Eastern
+76,16570691,The Abyssinian,Flemington,"277 Racecourse Road, Flemington, Melbourne",Melbourne,-37.7885320846,144.93183877319998,3,60,4.7,Excellent,632,201,"African, Ethiopian"
+77,16580906,Milk the Cow,St Kilda,"157 Fitzroy Street, St Kilda, Melbourne, VIC",Melbourne,-37.8588823312,144.9794898927,3,80,4.7,Excellent,631,256,Bar Food
+78,16557237,Bar Luca,CBD,"52 Phillip Street, CBD, Sydney",Sydney,-33.8640203701,151.2119307742,3,60,4.7,Excellent,624,305,"Burger, Modern Australian"
+79,16587463,Parwana Afghan Restaurant,"Henley Beach Road, Torrensville","124b Henley Beach Road, Torrensville, Adelaide",Adelaide,-34.9237361111,138.5674583333,3,80,4.7,Excellent,607,188,"Middle Eastern, Afghan"
+80,16591194,Hosokawa Japanese Restaurant,Hamilton,"Shop 3, 53 Racecourse Road, Hamilton, Brisbane",Brisbane,-27.437400521999997,153.06509345770002,3,60,4.7,Excellent,600,189,"Japanese, Sushi"
+81,16598265,Petite Mort,Shenton Park,"225 Onslow Road, Shenton Park, Perth",Perth,-31.961018,115.81147,4,250,4.7,Excellent,554,269,"European, French, Modern Australian"
+82,16558689,Pasticceria Papa,Haberfield,"145 Ramsay Street, Haberfield, Sydney",Sydney,-33.8809142787,151.1397293954,1,20,4.7,Excellent,516,170,"Coffee and Tea, Italian, Cafe Food"
+83,16594075,Bird's Nest Yakitori,South Brisbane,"Shop 5, 220 Melbourne Street, South Brisbane, Brisbane",Brisbane,-27.4769737009,153.0130639672,3,80,4.7,Excellent,490,188,"Asian, Japanese, Tapas"
+84,16562375,Hugos Manly,"Manly Wharf, Manly","Shop 1, Manly Wharf, 21 East Esplanade, Manly, Sydney",Sydney,-33.799878399099995,151.2838900834,4,130,4.7,Excellent,466,157,"Modern Australian, Tapas"
+85,16573158,Fresh Chilli Thai Restaurant,Laverton,"Shop 11, 5 Aviation Road, Laverton, Melbourne",Melbourne,-37.8674385462,144.761923179,3,60,4.7,Excellent,464,193,"Asian, Thai"
+86,16586909,Enzo's Ristorante,"Port Road, Hindmarsh","46 Port Road, Hindmarsh, Adelaide",Adelaide,-34.908092,138.575577,4,100,4.7,Excellent,425,136,Italian
+87,16570446,Belly Bao,Newtown,"184 King Street, Newtown, Sydney",Sydney,-33.894499523,151.18256561459998,2,40,4.7,Excellent,420,199,"Taiwanese, Street Food"
+88,16558417,Malay Chinese Takeaway,CBD,"Shop 1, 50-58 Hunter Street, CBD, Sydney",Sydney,-33.8659722149,151.20964050290002,2,35,4.7,Excellent,418,155,"Chinese, Malaysian"
+89,16597994,Shou Japanese Kitchen,Greenwood,"Shop 24, 18 Calectasia Street, Greenwood, Perth",Perth,-31.831055,115.801811,2,50,4.7,Excellent,411,157,Japanese
+90,16590773,Just Poppy's,Riverhills Plaza,"Riverhills Plaza, Shop 4, 20 Bogong Street, Riverhills, Brisbane",Brisbane,-27.5591731477,152.9115537554,2,40,4.7,Excellent,368,137,Burger
+91,16564943,Claire's Kitchen at Le Salon,Surry Hills,"35 Oxford Street, Surry Hills, Sydney",Sydney,-33.8779570839,151.2134767324,4,120,4.7,Excellent,340,151,French
+92,16589882,85 Miskin St,Toowong,"85 Miskin Street, Toowong, Brisbane",Brisbane,-27.4855121347,152.9835925251,4,200,4.7,Excellent,308,138,"French, Modern Australian"
+93,16558886,Rosso Pomodoro,Balmain,"20-24 Buchanan Street, Balmain, Sydney",Sydney,-33.8634181873,151.1801553145,3,60,4.7,Excellent,307,98,"Italian, Pizza, Vegetarian"
+94,16597908,Solo Pizza,"Coode Street, South Perth","Shop 5, 135A Coode Street, South Perth, Perth",Perth,-31.9881289245,115.8621295542,2,50,4.7,Excellent,307,141,"Coffee and Tea, Italian, Pizza"
+95,16590137,Zum Kaiser,Woolloongabba,"416 Vulture Street, Woolloongabba, Brisbane",Brisbane,-27.484476766700002,153.03686253729998,3,60,4.7,Excellent,296,83,German
+96,16561357,Ormeggio At The Spit,"D'Albora Marinas, Mosman","D'Albora Marinas The Spit, Spit Road, Mosman, Sydney",Sydney,-33.8042245992,151.24583858,4,300,4.7,Excellent,286,131,Italian
+97,16574463,Katik Take Away Food,Campbellfield,"349 Barry Road, Campbellfield, Melbourne, VIC",Melbourne,-37.6668740186,144.9482334405,2,40,4.7,Excellent,284,109,"Middle Eastern, Turkish"
+98,16589254,127 Days,Croydon Park,"127 Days Road, Croydon Park, Adelaide",Adelaide,-34.8758456,138.5663751,2,50,4.7,Excellent,267,123,"American, Burger, Sandwich"
+99,16587476,Kefi Greek Cuisine,"Tapleys Hill Road, Glenelg North","3 61 Tapleys Hill Road, Glenelg North, Adelaide",Adelaide,-34.9703214255,138.5169587284,3,80,4.7,Excellent,259,92,Greek
