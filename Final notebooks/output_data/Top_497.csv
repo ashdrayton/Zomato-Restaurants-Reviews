@@ -302,7 +302,6 @@
 300,16596036,Ha-Lu,"Oxford Street, Leederville","4/401 Oxford Street, Mount Hawthorn, Perth",Perth,-31.9233773227,115.84114629780001,3,60,4.9,Excellent,1067,241,"Japanese, Tapas"
 301,16598837,Run Amuk,"Orient Street, South Fremantle","386A South Terrace, South Fremantle, Fremantle, Perth",Perth,-32.0722768677,115.7530652359,2,50,4.9,Excellent,1038,340,Fast Food
 302,16597513,Pacific Rim Mix Plate,Applecross,"Shop B, 755 Canning Highway, Applecross, Melville, Perth",Perth,-32.0219001116,115.8322872967,2,40,4.9,Excellent,731,211,"Hawaiian, Japanese"
-303,16598976,Marumo,Nedlands,"22/145 Stirling Hwy, Nedlands, Nedlands & Dalkeith, Perth",Perth,-31.980215784699997,115.79665884379999,1,0,4.9,Excellent,437,140,"Japanese, Seafood, Modern Australian"
 304,16598168,Nobu Perth,Burswood,"Crown Metropol Perth, Great Eastern Highway, Burswood",Perth,-31.960525525799998,115.89402537790001,4,410,4.8,Excellent,1822,659,"Japanese, Sushi"
 305,16596002,Galileo Buona Cucina,Shenton Park,"199 Onslow Road, Shenton Park, Perth",Perth,-31.960976,115.812233,3,90,4.8,Excellent,725,205,Italian
 306,16595880,Chez Pierre,Nedlands,"131 Stirling Highway, Nedlands, Nedlands & Dalkeith, Perth",Perth,-31.979958,115.798027,4,150,4.8,Excellent,489,236,French
@@ -413,7 +412,6 @@
 411,16589382,Bread & Bone Wood Grill,"Peel Street, City Centre","15 Peel Street, Adelaide",Adelaide,-34.9235027778,138.5981305556,3,75,4.6,Excellent,599,236,"American, Bar Food"
 412,16588445,Ruby Red Flamingo,"Tynte Street, North Adelaide","142 Tynte Street, North Adelaide, Adelaide",Adelaide,-34.9061083333,138.5948194444,3,80,4.6,Excellent,576,216,Italian
 413,16586875,Concubine,"Gouger Street, City Centre","132 Gouger Street, Adelaide",Adelaide,-34.9302,138.5944833333,3,90,4.6,Excellent,421,112,Chinese
-414,16608070,d'Arry's Verandah Restaurant,McLaren Vale,"Osborn Rd, McLaren Vale",Adelaide,-35.198372,138.545242,1,25000017,4.6,Excellent,208,93,"Modern Australian, Australian"
 415,16588187,Il Toro,"North East Road, Greenacres","Shop 1, 321 North East Road, Hampstead Gardens, Greenacres, Adelaide",Adelaide,-34.871688888899996,138.6361833333,2,55,4.6,Excellent,138,71,Italian
 416,16587135,Rena's Thai Kitchen,"Kensington Road, Erindale","370 Kensington Road, Erindale, Kensington, Adelaide",Adelaide,-34.925809702600006,138.66299327459998,3,60,4.6,Excellent,131,50,Thai
 417,16587474,Eggless,"Goodwood Road, Goodwood","162 Goodwood Road, Goodwood, Adelaide",Adelaide,-34.953102777800005,138.5896138889,2,40,4.5,Excellent,632,184,"Desserts, Coffee and Tea, Cafe Food"
@@ -447,7 +445,6 @@
 445,16588532,Thai By 3 Monkeys,"O'connell Street, North Adelaide","33 O'Connell Street, North Adelaide, Adelaide",Adelaide,-34.9081805556,138.5966805556,3,60,4.4,Very Good,223,83,Thai
 446,16587027,Penfolds Magill Estate Restaurant,"Penfold Road, Rosslyn Park","78 Penfold Road, Rosslyn Park,  Adelaide",Adelaide,-34.920975,138.678863,4,350,4.4,Very Good,155,52,Modern Australian
 447,16587416,Lawash Bakery Kabab Shop,"South Road, Torrensville","115 South Road, Torrensville, Adelaide",Adelaide,-34.9185470383,138.5684229434,2,30,4.4,Very Good,182,67,"Lebanese, Middle Eastern, Bakery"
-448,16587373,Cam Wah Chinese & Vietnamese Restaurant,Kilkenny,"33 Kilkenny Rd, Kilkenny Park, Kilkenny, Adelaide",Adelaide,-34.886585,138.548981,1,0,4.4,Very Good,97,29,"Chinese, Vietnamese"
 449,16587214,Taste of Nepal,"The Parade, Beulah Park","300 The Parade, Beulah Park, Adelaide",Adelaide,-34.920959,138.644485,4,110,4.4,Very Good,122,48,"Asian, Indian, Tibetan"
 450,16587676,Sushi Train,Welland,"Welland Plaza, Shop 25, 522 Port Road, Welland",Adelaide,-34.8964111111,138.5569305556,2,35,4.4,Very Good,155,31,"Sushi, Japanese"
 451,16587238,Vietnam Restaurant,"Addison Road, Pennington","73 Addison Road, Pennington, Adelaide",Adelaide,-34.8569588868,138.5290316865,3,70,4.3,Very Good,505,154,Vietnamese
