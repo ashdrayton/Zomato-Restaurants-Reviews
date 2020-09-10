@@ -22,28 +22,30 @@ Melbourne has the highest rated restaurants however it comes at a higher price.
 
 ## The Data Exploration and The Data Clean-up ##
 
-The code for the data exploration and data cleaning in the Jupyter Notebook named: "Zomato_data_exploration_and_cleaning_"
+The code for the data exploration and data cleaning in the Jupyter Notebook named: "Zomato_data_exploration_and_cleaning_".
 
-**Data Sources**
+**Data Source**
 - We used Zomato API to gather the data
-- Our dataset included 500 restaurants which is the combination of the Top 100 restaurants of Melbourne, Sydney, Brisbane, Adelaide, Perth
+- Our dataset included 500 restaurants which is the combination of the Top 100 restaurants of Melbourne, Sydney, Brisbane, Adelaide, Perth.
+
 **Challenges**
 - We wanted 1000 restaurants per city but the limitation of 100 restaurants maximum per call.
 - Even though we could get around this constraint by searching for multiple postcodes, we worked with the central postcodes due to time contraints.
+
 **Biases**
 - By choosing only the five cities, this excluded possibly excellent restaurants in rural areas of Australia butwe were interested in the best restaurants where most Australians live.
 
 **The Data Clean-up**
-- The data is saved to a .csv
+- the data is saved to a .csv
 - we removed the duplicates with .dropna()
 - removed incorrect cells by sorting the data, then removing incorrect values
 - sorted the data by user ratings to extract the top 100 restaurants in Australia
 
 ## The Data Analysis ##
 
-The code with the data analysis is in the Jupyter Notebook named: "Zomato_Restaurants_Analysis"
+The code with the data analysis is in the Jupyter Notebook named: "Zomato_Restaurants_Analysis".
 
-**Restaurant Distribution and Average User Rating**
+### Restaurant Distribution and Average User Rating ###
 
 - 44% of the Top 100 Restaurants are in Melbourne.
 
@@ -53,18 +55,19 @@ The code with the data analysis is in the Jupyter Notebook named: "Zomato_Restau
 
 ![Average User Ratings](Final_notebooks/images/AvUserRating500.png)
 
-**User ratings across top 500 restaurants in each city**
+### User ratings across top 500 restaurants in each city ###
 - Melbourne and Sydney have a slightly higher ratings than other cities among their Top 100 restaurants.
 - This makes sense has they also are much bigger cities than the others.
+
 ![Distribution User Ratings](Final_notebooks/images/UserRatingsperCity.png)
 
-**Cost Comparison Across the Cities**
+### Cost Comparison Across the Cities ###
 - Melbourne is significantly more expensive than in any other city
 - Melbourne outlying restaurants don’t explain the high average cost
 
-![Scatter 500 restaurants](Final_notebooks/images/scatter_500.png)
+![Scatter 500 restaurants](Final_notebooks/images/Outliers_per_city.png)
 
-**Cuisines and cities**
+### Cuisines and cities ###
 - The Japanese and Italian cuisines are the most represented among the top restaurants.
 - The variety of cuisines is roughly the same across all cities. 
 
@@ -76,13 +79,11 @@ The code with the data analysis is in the Jupyter Notebook named: "Zomato_Restau
 - Melbourne’s average cost for two people is significantly higher than other city in Australia.
 - Generally, cuisines are evenly diverse across the five cities.
 
-**Conclusion**
-Melbourne has the highest rated restaurants however it comes at a higher price.
+**Conclusion**: Melbourne has the highest rated restaurants however it comes at a higher price.
 
 ## Challenges ##
 
-**Challenges** 
-- Higher average cost in Melbourne’s top restaurants can be potentially skewed by factors such as the dining scene, target demographics, paid marketing, etc. Zomato IS after all for-profit.
+- Higher average cost in Melbourne’s top restaurants can be potentially skewed by factors such as the dining scene, target demographics, paid marketing, etc. Zomato is after all for-profit.
 - Top 100 doesn’t adequately represent the dining scene in Australia – heavily favoured by Melbourne.
 - Zomato categorisation includes multiple terms that may convolute the data exploration process, may cause categorical disparity.
 - Broad vs specific categorisation.
@@ -94,7 +95,8 @@ Melbourne has the highest rated restaurants however it comes at a higher price.
 
 
 --------------------------------------------------------------------------
-Please note you will find in the folder named 'Final notebooks':
+## How to read our code and final presentation: ##
+You will find in the folder named 'Final notebooks':
 - two notebooks, one for the Data Exploration and Data Cleaning and one for the Data Analysis
 - the folder with "outputdata" with csv files
 - the folder with "images"  where we saved the graphs of our analysis
