@@ -6,7 +6,7 @@ Group project:
 - Benedict Nathaniel 
 - Erica Wearne
 
-In this group project, our goal is to understand how Melbourne's restaurants are valued compare to Australians' restaurants.
+In this project, our goal is to understand how Melbourne's restaurants compare to Australians' restaurants.
 
 ## Hypothesis, questions and overall findings: ##
 
@@ -41,7 +41,7 @@ The code for the data exploration and data cleaning in the Jupyter Notebook name
 
 ## The Data Analysis ##
 
-The code with the data analysis is in the Jupyer Notebook named: "Zomato_Restaurants_Analysis"
+The code with the data analysis is in the Jupyter Notebook named: "Zomato_Restaurants_Analysis"
 
 **Restaurant Distribution and Average User Rating**
 
@@ -56,29 +56,45 @@ The code with the data analysis is in the Jupyer Notebook named: "Zomato_Restaur
 **User ratings across top 500 restaurants in each city**
 - Melbourne and Sydney have a slightly higher ratings than other cities among their Top 100 restaurants.
 - This makes sense has they also are much bigger cities than the others.
-![Distribution User Ratings](Final_notebooks/images/UserRatingperCity.png)
+![Distribution User Ratings](Final_notebooks/images/UserRatingsperCity.png)
 
+**Cost Comparison Across the Cities**
+- Melbourne is significantly more expensive than in any other city
+- Melbourne outlying restaurants don’t explain the high average cost
 
+![Scatter 500 restaurants](Final_notebooks/images/scatter_500.png)
 
+**Cuisines and cities**
+- The Japanese and Italian cuisines are the most represented among the top restaurants.
+- The variety of cuisines is roughly the same across all cities. 
 
+![Cuisines](Final_notebooks/images/Cuisines.png)
 
+## Summary and Conclusion ##
 
+- 44% of the Top 100 restaurants are located in Melbourne.
+- Melbourne’s average cost for two people is significantly higher than other city in Australia.
+- Generally, cuisines are evenly diverse across the five cities.
 
+**Conclusion**
+Melbourne has the highest rated restaurants however it comes at a higher price.
 
+## Challenges ##
 
+**Challenges** 
+- Higher average cost in Melbourne’s top restaurants can be potentially skewed by factors such as the dining scene, target demographics, paid marketing, etc. Zomato IS after all for-profit.
+- Top 100 doesn’t adequately represent the dining scene in Australia – heavily favoured by Melbourne.
+- Zomato categorisation includes multiple terms that may convolute the data exploration process, may cause categorical disparity.
+- Broad vs specific categorisation.
+- What we took is a “snapshot”, not accurately representing the thousands of other restaurants in those cities.
 
-
-
-
-
-
-
-
+**If we had 2 more weeks...**
+- We would look at a larger number of restaurants and assess grouping more thoroughly.
+- Look at other APIs and do further validation - perhaps more public ones such as Google Maps and Foursquare APIs.
 
 
 --------------------------------------------------------------------------
-Please see our project in the folder named 'Final notebooks'.
-You will find 
+Please note you will find in the folder named 'Final notebooks':
 - two notebooks, one for the Data Exploration and Data Cleaning and one for the Data Analysis
 - the folder with "outputdata" with csv files
 - the folder with "images"  where we saved the graphs of our analysis
