@@ -43,15 +43,30 @@ The code for the data exploration and data cleaning in the Jupyter Notebook name
 
 The code with the data analysis is in the Jupyer Notebook named: "Zomato_Restaurants_Analysis"
 
-### Restaurant Distribution and Average User Rating ###
+**Restaurant Distribution and Average User Rating**
 
 - 44% of the Top 100 Restaurants are in Melbourne.
 
-![Distribution User Ratings](Final_notebooks/images/UserRatingsperCity.png)
+![Distribution Top 100](Final_notebooks/images/DistributionTop100.png)
 
 - When we look at the Top 500 restaurants, Melbourne is just ahead on average user ratings than Sydney.
 
 ![Average User Ratings](Final_notebooks/images/AvUserRating500.png)
+
+**User ratings across top 500 restaurants in each city**
+- Melbourne and Sydney have a slightly higher ratings than other cities among their Top 100 restaurants.
+- This makes sense has they also are much bigger cities than the others.
+![Distribution User Ratings](Final_notebooks/images/UserRatingperCity.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
