@@ -1,4 +1,4 @@
-# Zomato Restaurants Reviews
+# Zomato Restaurants Reviews #
 
 Group project:
 - Ashley Drayton
@@ -8,7 +8,7 @@ Group project:
 
 In this group project, our goal is to understand how Melbourne's restaurants are valued compare to Australians' restaurants.
 
-##Hypothesis, questions and overall findings:##
+## Hypothesis, questions and overall findings: ##
 
 **Our hypothesis are:**
 - Melbourne is the cultural epicentre of Australia and renowned for the quality and diversity of its food.
@@ -20,7 +20,7 @@ Does Melbourne really have the best restaurants in Australia based on price, rat
 **Key findings:**
 Melbourne has the highest rated restaurants however it comes at a higher price.
 
-##The Data Exploration and The Data Clean-up##
+## The Data Exploration and The Data Clean-up ##
 
 The code for the data exploration and data cleaning in the Jupyter Notebook named: "Zomato_data_exploration_and_cleaning_"
 
@@ -39,17 +39,19 @@ The code for the data exploration and data cleaning in the Jupyter Notebook name
 - removed incorrect cells by sorting the data, then removing incorrect values
 - sorted the data by user ratings to extract the top 100 restaurants in Australia
 
-##The Data Analysis##
+## The Data Analysis ##
 
 The code with the data analysis is in the Jupyer Notebook named: "Zomato_Restaurants_Analysis"
 
-###Restaurant Distribution and Average User Rating###
+### Restaurant Distribution and Average User Rating ###
 
 - 44% of the Top 100 Restaurants are in Melbourne.
-![Distribution User Ratings](final_notebooks/images/Distribution-of-User-Ratings-per-City.png)
 
-- When doing the comparison of the top 500 restaurants however, Melbourne is ahead on average user ratings and equal with Sydney on median user rating.
+![Distribution User Ratings](Final_notebooks/images/UserRatingsperCity.png)
 
+- When we look at the Top 500 restaurants, Melbourne is just ahead on average user ratings than Sydney.
+
+![Average User Ratings](Final_notebooks/images/AvUserRating500.png)
 
 
 
